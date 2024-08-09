@@ -1,0 +1,3 @@
+U is a migration vector with a dimension of 100, representing the number of migrants aged 0 to 100 who arrived or departed within a year in the studied territory. 
+This vector's values are independent of the number of births or deaths in the area. 
+The task is to determine the vector U that will result in the desired population distribution over the next 20 years.
